@@ -59,7 +59,7 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       
       
-      { name: 'Next JS', logo: nextjsLogo },
+      //{ name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       
     ],
@@ -73,7 +73,7 @@ export const SkillsInfo = [
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
       
-      { name: 'PostgreSQL', logo: postgreLogo },
+      //{ name: 'PostgreSQL', logo: postgreLogo },
     ],
   },
   {
@@ -199,16 +199,16 @@ export const SkillsInfo = [
       github: "https://github.com/harshvardhan-14/Exp-Track",
       
     },
-    {
-      id: 1,
-      title: "CS Prep",
-      description:
-        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+    // {
+    //   id: 1,
+    //   title: "CS Prep",
+    //   description:
+    //     "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
+    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+    //   github: "https://github.com/codingmastr/CSPrep",
       
-    },
+    // },
     {
       id: 2,
       title: "Heart Rate Monitoring System",
